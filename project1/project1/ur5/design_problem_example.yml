@@ -1,0 +1,58 @@
+box:
+- name: table_top
+  half_extents:
+  - 0.6
+  - 0.5
+  - 0.02
+  position:
+  - -0.1
+  - 1.0
+  - 1.2
+  orientation_quat_xyzw:
+  - 0.0
+  - 0.0
+  - 0.0
+  - 0.1
+cylinder:
+- name: Can1
+  radius: 0.03
+  length: 0.3
+  position:
+  - -0.072
+  - 0.8
+  - 1.35
+  orientation_quat_xyzw:
+  - 0.0
+  - 0.0
+  - 0.0
+  - 1.0
+- name: Can2
+  radius: 0.03
+  length: 0.14
+  position:
+  - 0.1
+  - 0.9
+  - 1.27
+  orientation_quat_xyzw:
+  - 0.0
+  - 0.0
+  - 0.0
+  - 1.0
+goals:
+- - -2.809498012708093
+  - -1.567506499208656
+  - -1.817198071237368
+  - 0.2366630976375464
+  - 1.395819898033502
+  - 0.007601902829659224
+index: 1
+problem: example
+sphere: []
+start:
+- 1.57
+- -1.5707
+- 0
+- -1.5707
+- -1.57
+- 3.14
+valid: true
