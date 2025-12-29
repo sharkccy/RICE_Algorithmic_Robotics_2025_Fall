@@ -7,6 +7,6 @@
 
 - Collision checking is essential for robot planning algorithms to verify whether certain points in the configuration space are valid in robot’s working space
 
-- See [vc68_Chung_Yu_(Vincent)_Chang_Project 2](./vc68_Chung_Yu_(Vincent)_Chang_Project_2.pdf) for detailed analysis and results.
+- See [vc68_Chung_Yu_(Vincent)_Chang_Project 2](./Project2_vc68/vc68_Chung_Yu_(Vincent)_Chang_Project_2.pdf) for detailed analysis and results.
 
 - See [Project2_vc68/README.md](./Project2_vc68/README.md) to see how to run the code.
